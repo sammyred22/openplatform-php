@@ -1,0 +1,1 @@
+A client library to assist PHP developers to build applications for The Guardian Open Platform
